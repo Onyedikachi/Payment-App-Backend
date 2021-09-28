@@ -1,0 +1,14 @@
+{
+  "name": "peertopeer",
+  "version": "1.0.0",
+  "description": "Mysogi Peer to Peer App",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.3"
+  }
+}
